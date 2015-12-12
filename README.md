@@ -7,3 +7,7 @@ Gamecube ISO files as a read-only filesystem. Should be feature complete and com
 ## How do I build it?
 
 Use [bazel](http://bazel.io)
+
+## Future plans
+
+I'd like to add support for compressed images, such as wbfs and gcz formats
